@@ -18,8 +18,13 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
