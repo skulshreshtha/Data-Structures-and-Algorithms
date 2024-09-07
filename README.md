@@ -13,6 +13,7 @@ This repository contains my code for implementing various Data Structures and so
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -27,4 +28,12 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
