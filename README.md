@@ -6,6 +6,7 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
 ## Two Pointers
@@ -21,6 +22,7 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
@@ -28,6 +30,7 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
 ## Design
