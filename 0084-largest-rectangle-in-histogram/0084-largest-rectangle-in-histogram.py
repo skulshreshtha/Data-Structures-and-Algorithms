@@ -1,21 +1,20 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        maxArea = 0
         stack = []
+        maxArea = 0
+        # [(0,2)]
         for i, h in enumerate(heights):
             start = i
-            while stack and stack[-1][1] > h:
+            while stack and h < stack[-1][1]:
                 index, height = stack.pop()
-                width = i - index
-                curArea = height * width
-                maxArea = max(curArea, maxArea)
+                width = (i - index)
+                maxArea = max(maxArea, width * height) # 2
                 start = index
-            stack.append((start, h)) # Because the current height can also be extended backwards
-            
-        # If stack not empty
+            stack.append((start, h)) # Backwards extend rectangle of current height
+        
         while stack:
             index, height = stack.pop()
-            curArea = (len(heights) - index) * height
-            maxArea = max(maxArea, curArea)
-        
+            width = (len(heights) - index)
+            maxArea = max(maxArea, width * height)
+
         return maxArea
