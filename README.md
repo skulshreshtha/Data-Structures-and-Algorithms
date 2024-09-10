@@ -7,6 +7,7 @@ This repository contains my code for implementing various Data Structures and so
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
 ## Two Pointers
@@ -18,6 +19,7 @@ This repository contains my code for implementing various Data Structures and so
 | ------- |
 | [0022-generate-parentheses](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
