@@ -1,11 +1,3 @@
-"""
-AABABBA
-l, maxLength, curLenght, counter, candidates
-0,1,1,{A:1},{A}
-0,2,2,{A:2},{A}
-0,3,3,{A:3},{A}
-0,
-"""
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         l, maxLength = 0, 0
