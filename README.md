@@ -42,6 +42,7 @@ This repository contains my code for implementing various Data Structures and so
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -51,4 +52,12 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
