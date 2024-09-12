@@ -8,12 +8,14 @@ This repository contains my code for implementing various Data Structures and so
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@ This repository contains my code for implementing various Data Structures and so
 | [0003-longest-substring-without-repeating-characters](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
