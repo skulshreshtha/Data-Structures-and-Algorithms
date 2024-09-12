@@ -1,6 +1,5 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        # if len(t) > len(s): return ""
         tCount, window = {}, {}
         have, need = 0, 0
         minwindow, minLength = "", float("inf")
