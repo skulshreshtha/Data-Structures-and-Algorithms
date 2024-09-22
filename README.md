@@ -79,4 +79,20 @@ This repository contains my code for implementing various Data Structures and so
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/skulshreshtha/Data-Structures-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
